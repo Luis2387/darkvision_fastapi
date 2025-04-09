@@ -25,7 +25,7 @@ This is a minimal backend MVP built with FastAPI. It authenticates users using J
 
 ## Installation
 
-git clone https://github.com/youruser/darkvision-dashboard-api.git
+git clone https://github.com/Luis2387/darkvision_fastapi.git
 
 cd darkvision-dashboard-api
 
