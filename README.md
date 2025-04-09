@@ -26,8 +26,11 @@ This is a minimal backend MVP built with FastAPI. It authenticates users using J
 ## Installation
 
 git clone https://github.com/youruser/darkvision-dashboard-api.git
+
 cd darkvision-dashboard-api
+
 python -m venv venv
+
 venv\Scripts\activate
 
 pip install -r requirements.txt
@@ -35,8 +38,11 @@ pip install -r requirements.txt
 Create .env file as follows or use .env_example as guide: 
 
 AWS_ACCESS_KEY_ID=yourkey
+
 AWS_SECRET_ACCESS_KEY=yoursecret
+
 AWS_REGION=us-east-1
+
 JWT_SECRET_KEY=mysecret
 
 ## Running the app
